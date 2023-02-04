@@ -4,7 +4,7 @@ import Budget from "./Budget";
 import Expenses from "./Expenses";
 import FreeMoney from "./FreeMoney";
 import ExpensesContainer from "./ExpensesContainer";
-import { MyContext } from "./Context";
+import { MyContext } from "../Context.js";
 import Grid from "@mui/material/Grid";
 
 const Title = styled.h1`

@@ -5,7 +5,7 @@ import FormControlUnstyled from "@mui/base/FormControlUnstyled";
 import Button from "@mui/material/Button";
 import ExpenseItem from "./ExpenseItem";
 import { v4 as uuidv4 } from "uuid";
-import { MyContext } from "./Context";
+import { MyContext } from "../Context.js";
 const Wrapper = styled.section`
   max-width: 70%;
   margin: 0 auto;

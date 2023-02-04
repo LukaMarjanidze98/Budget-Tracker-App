@@ -9,7 +9,7 @@ import {
 import EditIcon from "@mui/icons-material/Edit";
 import Button from "@mui/material/Button";
 import TextField from "@mui/material/TextField";
-import { MyContext } from "./Context";
+import { MyContext } from "../Context.js";
 
 export default function Budget() {
   const { BudgetAmount, setBudgetAmount } = useContext(MyContext);
