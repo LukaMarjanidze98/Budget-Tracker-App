@@ -1,5 +1,6 @@
 This is my simple improvised SPA for budget tracking.
 had a lot of fun building it and learned a few things along the way.
+it's filled with mock data for testing purposes.
 
 Preview Link - https://budgetapp-wgeu.onrender.com/
 
