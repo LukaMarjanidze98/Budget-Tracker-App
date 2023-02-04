@@ -1,6 +1,8 @@
 This is my simple improvised SPA for budget tracking.
 had a lot of fun building it and learned a few things along the way.
 
+Preview Link - https://budgetapp-wgeu.onrender.com/
+
 ## Technologies used in the project
 
 React's Context API for managing states
